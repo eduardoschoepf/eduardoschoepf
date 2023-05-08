@@ -1,5 +1,5 @@
 ### Hi there,
-Holder of a BTEC higher national diploma in software development, with 2 years of experience as a front-end developer (Javascript, AngularJs) and 4 years in IT support specialized in customs clearance procedures, I'm reactive, flexible and always engaged in my work with an ability to work in different environments.
+Holder of a Professional Title Software Developer (Level 5), with more than 2 years of experience in mobile application development, I currently work as an IT support, specializing in customs clearance procedures. In my free time, I develop my coding skills. Currently, I am studying React Native and SAP ABAP.
 
 <!--
 **eduardoschoepf83/eduardoschoepf83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
