@@ -1,17 +1,12 @@
-### Hi there,
-Passionate about software development, I am currently pursuing a bachelor's degree in Software Engineering and seeking a challenge as a full-stack developer. In my free time, I develop my coding skills. Currently, I am studying React Native and Node.JS.
+### Hi there 👋,  
+I'm Eduardo Schoepf, and my journey in the world of software development began in 2015. Since then, I've been on a path filled with challenges and achievements that have solidified my passion for the technology field.
+#### What I Know:
+🎓 I obtained my professional title as a Software Developer in 2016, developing my skills in XML, HTML5, CSS3, JavaScript, jQuery, Ajax, PHP5, SQL, UML, MySQL, MERISE system analysis, and object-oriented programming. During a 3-month internship, I delved into practical experiences, modeling a MySQL database, developing a web application in PHP5, and implementing unit tests.
+#### What I Do:
+📱 I kicked off my career at a startup in Montpellier, in the south of France, creating a mobile application incorporating mapping tools with Ionic, Cordova, and AngularJS. Later on, I transitioned into the public administration. My current role involves analyzing XML flows and resolving incident tickets, while also contributing to the integration of new colleagues.
+#### What I Study:
+📚 Focused on advancing my career, I embarked on the journey of a Bachelor's in Software Engineering, delving into project management, architecture, and other software lifecycle activities. Additionally, in my free time, I'm immersed in Harvard University's Introduction to Computer Science MOOC—a truly exceptional program covering concepts like abstraction, algorithms, C language, Python, SQL, JavaScript, CSS, and HTML.
+#### Beyond the Tech World:
+🌍 Beyond code, I'm a world explorer, believing that diversity of experiences is the key to creativity. I enjoy teamwork, where communication is the secret to successful challenges. I have the ability to explain complicated things in a simple manner. And, of course, I love challenges, as each bug is an opportunity to learn something new!
 
-<!--
-**eduardoschoepf83/eduardoschoepf83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm always open to new opportunities and interesting challenges. Let's create something amazing together!
