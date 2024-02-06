@@ -9,4 +9,4 @@ I'm Eduardo Schoepf, and my journey in the world of software development began i
 #### Beyond the Tech World:
 🌍 Beyond code, I'm a world explorer, believing that diversity of experiences is the key to creativity. I enjoy teamwork, where communication is the secret to successful challenges. I have the ability to explain complicated things in a simple manner. And, of course, I love challenges, as each bug is an opportunity to learn something new!
 
-🚀 I'm always open to new opportunities and interesting challenges. Let's create something amazing together!
+🚀 I'm open to new opportunities and interesting challenges. Let's create something amazing together!
