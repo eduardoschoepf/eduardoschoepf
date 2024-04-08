@@ -1,4 +1,4 @@
-### Hi there 👋,  
+### Hi there,  
 I'm Eduardo Schoepf, and my journey in the world of software development began in 2015. Since then, I've been on a path filled with challenges and achievements that have solidified my passion for the technology field.
 #### What I Know:
 🎓 I obtained my professional title as a Software Developer in 2016, developing my skills in XML, HTML5, CSS3, JavaScript, jQuery, Ajax, PHP5, SQL, UML, MySQL, MERISE system analysis, and object-oriented programming. During a 3-month internship, I delved into practical experiences, modeling a MySQL database, developing a web application in PHP5, and implementing unit tests.
