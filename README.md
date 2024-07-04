@@ -10,3 +10,9 @@
 ## About Me
 
 Working in software development since 2017, I have contributed to the development of applications using **Javascript, NodeJS, PHP and frameworks such as AngularJS**. I'm currently improving my Java skills, with a focus on the Spring framework. I'm looking for new opportunities as a Java developer.  
+
+ ## Stats
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschoepf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
+ ![](https://github-readme-stats.vercel.app/api?username=eduardoschoepf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardoschoepf&theme=tokyonight&hide_border=false)
+ ![](https://github-readme-activity-graph.vercel.app/graph?username=eduardoschoepf&theme=tokyo-night)
