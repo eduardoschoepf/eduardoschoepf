@@ -10,6 +10,7 @@
 ## About Me
 
 Working in software development since 2017, I have contributed to the development of applications using **Javascript, NodeJS, PHP and frameworks such as AngularJS**. I'm currently improving my Java skills, with a focus on the Spring framework. I'm looking for new opportunities as a Java developer.  
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschoepf&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 [![GitHub Streak](https://streak-stats.demolab.com?user=eduardoschoepf&exclude_days=Sun%2CSat&card_width=550&card_height=215&background=FBF1C7)](https://git.io/streak-stats)
-
