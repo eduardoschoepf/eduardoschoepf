@@ -1,22 +1,31 @@
-<div align="center">
-  <a href="https://app.daily.dev/eduardoschoepf"><img src="https://api.daily.dev/devcards/v2/NVRvqKor3d1YVhOyX6nTr.png?type=wide&r=x33" width="652" alt="Eduardo Schoepf's Dev Card"/></a>
-</div>
-
-<h2 align="center">
+<h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardoschoepf&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Software Developer
   <a href="https://eduardoschoepf.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
-</h2>
+</h1>
 
 ## About Me
 
-Working in software development since 2017, I have contributed to the development of applications using **Javascript, NodeJS, PHP and frameworks such as AngularJS**. I'm currently improving my Java skills, with a focus on the Spring framework. I'm looking for new opportunities as a Java developer.  
+I'm currently reorienting my career towards the SAP platform, specializing in the role of SAP ABAP consultant.I have developed skills for this new phase, such as report development, transparent table modeling, domain and data element definition, package structuring, transport request management, and development based on modern ABAP principles, including the use of CDS Views, OData, and RAP.
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoschoepf&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
-[![GitHub Streak](https://streak-stats.demolab.com?user=eduardoschoepf&exclude_days=Sun%2CSat&card_width=550&card_height=215&background=FBF1C7)](https://git.io/streak-stats)
+🖥️ Summary of my professional background
+I began my career as a developer working with AngularJS, Ionic, and Cordova to build a fleet monitoring application.Over the past few years, I have worked in the support of critical systems undergoing constant regulatory changes, particularly during the post-Brexit transition (2020–2022). My background also includes experience in a military environment, which strengthened my discipline, resilience, and ability to find effective solutions under pressure.
 
-</div>
+🛠️ABAP  
+├ Abap clássico  
+├ Desenvolvimento de relatórios ALV  
+├ Criação de domínios, elementos de dados, estruturas e tabelas transparentes  
+├ SAP RAP (Restful ABAP Programming)  
+├ CDS Views (Interface e Consumption)   
+├ OData Services  
+├ Modularização (Includes e Classes)  
+├ Gerenciamento de Requests e transporte de objetos  
+
+🛠️WEB  
+├ AngularJS (JavaScript)  
+├ Spring Boot (Java)  
+├ Docker  
+├ PostgreSQL  
+├ Git  
