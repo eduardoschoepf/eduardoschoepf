@@ -8,24 +8,9 @@
 
 ## About Me
 
-I'm currently reorienting my career towards the SAP platform, specializing in the role of SAP ABAP consultant.I have developed skills for this new phase, such as report development, transparent table modeling, domain and data element definition, package structuring, transport request management, and development based on modern ABAP principles, including the use of CDS Views, OData, and RAP.
+Since 2017, I have been working in software development, with experience in AngularJS, React, Spring Boot, PostgreSQL, and Docker. Recently, I have been expanding my skills to the SAP ecosystem, including classic ABAP, SAP RAP, CDS Views, OData Services, SAP BTP, and CAP, maintaining a focus on continuous evolution and delivering quality solutions.  
 
-🖥️ Summary of my professional background  
-I began my career as a developer working with AngularJS, Ionic, and Cordova to build a fleet monitoring application. Over the past few years, I have worked in the support of critical systems undergoing constant regulatory changes, particularly during the post-Brexit transition (2020–2022). My background also includes experience in a military environment, which strengthened my discipline, resilience, and ability to find effective solutions under pressure.
-
-🛠️ABAP  
-├ Abap clássico  
-├ Desenvolvimento de relatórios ALV  
-├ Criação de domínios, elementos de dados, estruturas e tabelas transparentes  
-├ SAP RAP (Restful ABAP Programming)  
-├ CDS Views (Interface e Consumption)   
-├ OData Services  
-├ Modularização (Includes e Classes)  
-├ Gerenciamento de Requests e transporte de objetos  
-
-🛠️WEB  
-├ AngularJS (JavaScript)  
-├ Spring Boot (Java)  
-├ Docker  
-├ PostgreSQL  
-├ Git  
+**SAP**: ABAP, RAP, CDS Views, OData Services, ALV Reports, SAPUI5, Fiori Launchpad, SAP BTP, CAP.  
+**Backend & DevOps**: Java, Spring Boot, Docker, PostgreSQL.  
+**Frontend**: AngularJS, React, JavaScript, HTML5, CSS3.  
+**Metodologias**: MVC, POO, APIs REST, Agile/Scrum.  
